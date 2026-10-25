@@ -1,0 +1,12 @@
+<RevitAddIns> 
+    <!-- Плагин RevitSapper -->   
+    <AddIn Type="Application">
+        <Name>Sapper</Name>
+        <Assembly>Sapper/RevitSapper.dll</Assembly>
+        <AddInId>5c83687b-7d43-4fe1-a111-fb49640d3216</AddInId>
+        <FullClassName>RevitSapper.RevitApplication</FullClassName>
+        <Text>LEV</Text>
+        <VendorId>MyId</VendorId>
+        <VendorDescription>Krivoshein</VendorDescription>
+    </AddIn>
+</RevitAddIns>
